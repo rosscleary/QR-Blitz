@@ -1,0 +1,2 @@
+# QR-Blitz
+QR Blitz is an exercise and math-focused game made for young kids, where you choose a difficulty level, click start, and you'll hear a voice command in the form of either a math problem or a colour that will indicate which of the QR codes to scan. After you scan each one correctly, you will receive another command. It would be beneficial in city parks and other public spaces as a game for kids that allows them to use a mobile device, but is also both a physical and mental activity.
